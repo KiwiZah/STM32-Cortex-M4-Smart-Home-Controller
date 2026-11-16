@@ -1,0 +1,19 @@
+# STM32CubeIDE generated output and local workbench settings
+**/Debug/
+**/Release/
+**/build/
+**/*.o
+**/*.elf
+**/*.bin
+**/*.hex
+**/*.map
+**/*.list
+**/*.cyclo
+**/*.su
+**/*.d
+**/*.launch
+**/.settings/*.prefs
+**/.metadata/
+*.zip
+.DS_Store
+Thumbs.db
